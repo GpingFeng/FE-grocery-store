@@ -1,9 +1,8 @@
 - [简介](/?id=intro)
 
-- 杂货
-  - [第一期](week/firstWeek.md)
-
-- 干货铺
+- 前端周卡
+  - [第一周](week/firstWeek.md)
+s
 
 
 
