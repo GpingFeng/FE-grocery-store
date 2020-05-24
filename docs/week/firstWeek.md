@@ -152,4 +152,6 @@ router.beforeEach((to, from, next) => {
 [模块的基础操作，导出和导入](https://juejin.im/post/5b2b2d8de51d4558ba1a64e0)
 
 
+欢迎大家关注我的公众号
 
+![](2020-05-24-18-02-59.png)
